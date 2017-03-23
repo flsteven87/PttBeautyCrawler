@@ -1,3 +1,5 @@
-# Tutorial
+# default 3 pages
 
-This is my tutorial repository.
+PAGE_TO_CRAWL = 3
+
+# change the number if you need more or less page
