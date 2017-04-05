@@ -1,4 +1,4 @@
-#### default 3 pages
+# default 3 pages
 #### change the number if you need more or less page
 
 PAGE_TO_CRAWL = 3
